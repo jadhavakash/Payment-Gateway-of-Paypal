@@ -1,1 +1,1 @@
-# Payment-Gateway-of-Paypal
+# Payment-Gateway-Integration-of-Paypal
